@@ -1,0 +1,255 @@
+{
+    "p": {
+        "first_name": "p",
+        "last_name": "p",
+        "dob": "1990-01-01",
+        "password": "p",
+        "enhancement_count": 6,
+        "enhancement_types": [
+            "Salt",
+            "Sharpening",
+            "Edge",
+            "Denoise"
+        ],
+        "enhancement_history": [
+            {
+                "technique": "Salt",
+                "date": "2025-04-29 03:18:15",
+                "filename": "proxy-image.jpeg"
+            },
+            {
+                "technique": "Sharpening",
+                "date": "2025-04-29 03:22:20",
+                "filename": "proxy-image.jpeg"
+            },
+            {
+                "technique": "Salt",
+                "date": "2025-04-29 07:37:43",
+                "filename": "proxy-image.jpeg"
+            },
+            {
+                "technique": "Edge",
+                "date": "2025-04-29 07:37:52",
+                "filename": "proxy-image.jpeg"
+            },
+            {
+                "technique": "Denoise",
+                "date": "2025-04-29 07:38:03",
+                "filename": "proxy-image.jpeg"
+            },
+            {
+                "technique": "Sharpening",
+                "date": "2025-04-29 10:51:15",
+                "filename": "proxy-image.jpeg"
+            }
+        ],
+        "join_date": "2025-04-29"
+    },
+    "mohamedsh@gmail.com": {
+        "first_name": "mohamed",
+        "last_name": "shreif",
+        "dob": "2005-10-01",
+        "password": "mohamed123",
+        "enhancement_count": 3,
+        "enhancement_types": [
+            "Complement",
+            "Denoise",
+            "Gaussian"
+        ],
+        "enhancement_history": [
+            {
+                "technique": "Complement",
+                "date": "2025-05-11 12:22:55",
+                "filename": "istockphoto-817486220-612x612.jpg"
+            },
+            {
+                "technique": "Denoise",
+                "date": "2025-05-11 12:23:14",
+                "filename": "istockphoto-817486220-612x612.jpg"
+            },
+            {
+                "technique": "Gaussian",
+                "date": "2025-05-11 12:23:31",
+                "filename": "istockphoto-817486220-612x612.jpg"
+            }
+        ],
+        "join_date": "2025-05-11"
+    },
+    "yy": {
+        "first_name": "yy",
+        "last_name": "yy",
+        "dob": "1990-01-01",
+        "password": "yy",
+        "enhancement_count": 11,
+        "enhancement_types": [
+            "Sharpening",
+            "Salt",
+            "Denoise",
+            "Complement",
+            "Salt & Pepper Noise (Film Grain)",
+            "Histogram"
+        ],
+        "enhancement_history": [
+            {
+                "technique": "Sharpening",
+                "date": "2025-05-11 22:24:23",
+                "filename": "istockphoto-1130164107-612x612.jpg"
+            },
+            {
+                "technique": "Salt",
+                "date": "2025-05-11 22:24:32",
+                "filename": "istockphoto-1130164107-612x612.jpg"
+            },
+            {
+                "technique": "Denoise",
+                "date": "2025-05-11 22:25:06",
+                "filename": "unknown"
+            },
+            {
+                "technique": "Sharpening",
+                "date": "2025-05-11 22:25:25",
+                "filename": "unknown"
+            },
+            {
+                "technique": "Complement",
+                "date": "2025-05-11 22:33:25",
+                "filename": "photo_1_2023-10-14_23-46-18.jpg"
+            },
+            {
+                "technique": "Salt",
+                "date": "2025-05-11 22:46:50",
+                "filename": "photo_9_2023-10-14_23-46-18.jpg"
+            },
+            {
+                "date": "2025-05-11 23:06:35",
+                "enhancement": "Salt & Pepper Noise (Film Grain)"
+            },
+            {
+                "technique": "Histogram",
+                "date": "2025-05-12 11:32:24",
+                "filename": "anarchy-computer-cyber-dark-wallpaper-thumb.jpg"
+            },
+            {
+                "technique": "Histogram",
+                "date": "2025-05-12 11:37:10",
+                "filename": "DATA.jpg"
+            },
+            {
+                "technique": "Histogram",
+                "date": "2025-05-12 11:48:26",
+                "filename": "photo_1_2023-10-14_23-46-18.jpg"
+            },
+            {
+                "technique": "Histogram",
+                "date": "2025-05-12 12:18:43",
+                "filename": "istockphoto-1078728898-612x612.jpg"
+            }
+        ],
+        "join_date": "2025-05-11"
+    },
+    "oo": {
+        "first_name": "oo",
+        "last_name": "oo",
+        "dob": "1990-01-01",
+        "password": "oo",
+        "enhancement_count": 8,
+        "enhancement_types": [
+            "Histogram",
+            "Complement",
+            "Edge",
+            "Gaussian",
+            "Sharpening",
+            "Salt"
+        ],
+        "enhancement_history": [
+            {
+                "technique": "Histogram",
+                "date": "2025-05-12 12:21:23",
+                "filename": "DATA.jpg"
+            },
+            {
+                "technique": "Complement",
+                "date": "2025-05-12 12:24:18",
+                "filename": "photo_29_2023-10-14_23-49-20.jpg"
+            },
+            {
+                "technique": "Edge",
+                "date": "2025-05-12 12:30:18",
+                "filename": "photo_29_2023-10-14_23-49-20.jpg"
+            },
+            {
+                "technique": "Gaussian",
+                "date": "2025-05-12 12:34:52",
+                "filename": "photo_29_2023-10-14_23-49-20.jpg"
+            },
+            {
+                "technique": "Sharpening",
+                "date": "2025-05-12 12:35:10",
+                "filename": "photo_29_2023-10-14_23-49-20.jpg"
+            },
+            {
+                "technique": "Complement",
+                "date": "2025-05-12 12:35:20",
+                "filename": "photo_29_2023-10-14_23-49-20.jpg"
+            },
+            {
+                "technique": "Salt",
+                "date": "2025-05-12 12:35:25",
+                "filename": "photo_29_2023-10-14_23-49-20.jpg"
+            },
+            {
+                "technique": "Salt",
+                "date": "2025-05-12 12:39:17",
+                "filename": "photo_26_2023-10-14_23-49-20.jpg"
+            }
+        ],
+        "join_date": "2025-05-12"
+    },
+    "yy4472285@gmail.com": {
+        "first_name": "youssef ",
+        "last_name": "moharm",
+        "dob": "2005-04-09",
+        "password": "0147852369",
+        "enhancement_count": 6,
+        "enhancement_types": [
+            "Gaussian",
+            "Sharpening",
+            "Edge",
+            "Complement",
+            "Salt"
+        ],
+        "enhancement_history": [
+            {
+                "technique": "Gaussian",
+                "date": "2025-05-14 09:45:05",
+                "filename": "photo_1_2023-10-14_23-46-33.jpg"
+            },
+            {
+                "technique": "Gaussian",
+                "date": "2025-05-14 09:45:16",
+                "filename": "pexels-photo-6964137.jpeg"
+            },
+            {
+                "technique": "Sharpening",
+                "date": "2025-05-14 09:45:23",
+                "filename": "pexels-photo-6964137.jpeg"
+            },
+            {
+                "technique": "Edge",
+                "date": "2025-05-14 09:45:30",
+                "filename": "pexels-photo-6964137.jpeg"
+            },
+            {
+                "technique": "Complement",
+                "date": "2025-05-14 09:45:37",
+                "filename": "pexels-photo-6964137.jpeg"
+            },
+            {
+                "technique": "Salt",
+                "date": "2025-05-14 09:45:43",
+                "filename": "pexels-photo-6964137.jpeg"
+            }
+        ],
+        "join_date": "2025-05-14"
+    }
+}
